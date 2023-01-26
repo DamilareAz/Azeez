@@ -1,4 +1,19 @@
-body {background-color: powderblue;}
-  h1 {color: Yellow;}
-    p {color: green;}
-      
+body {
+background: linear-gradient(90deg, sandybrown, pink);
+}
+
+h1 {background-color: transparent;
+text-color: white;}
+
+a:link, a:hover {text-decoration: none;
+color: white;}
+a:active {color: green}
+
+
+h2 { text-decoration: underline;
+color: black; font-family: sans;}
+
+p {color: white;
+font-family: math;
+font-size: 20px;
+background-color: transparent;}
